@@ -1,0 +1,25 @@
+Navbarfonts :Calibri, font type (bold)
+Sliderfonts :Source Sans Variable, font type (bold) and Segoe UI Emoji Regular.
+--------------------------------------------------------------------------------- 
+Font: Candara(bold).
+Segoe UI Emoji Regular(regular)
+---------------------------------------------------------------------------------
+Heading : Font = Candara(bold)
+paragraph : Font = Candara(bold)
+Buttons : Font = Candara(bold)
+---------------------------------------------------------------------------------
+Headings : Fonts = Source Sans Variable.
+Paragraphs : Fonts = Segoe UI Emoji Regular
+Buttons :Fonts = Source Sans Variable.
+----------------------------------------------------------------------------------
+Heading : Font = Candara (Bold)
+Numbers : Font = Acumin Variable Concept
+Text : Font = Source Sans Variable
+----------------------------------------------------------------------------------
+Heading : font = Candara(bold)
+Sub Heading : font = Segoe UI Emoji Regular
+----------------------------------------------------------------------------------
+Heading : font = Candara (bold)
+Text : Font = Candara (regular)
+----------------------------------------------------------------------------------
+Footer text : Font = Segoe UI Emoji Regular

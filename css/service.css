@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+
+
+
+  /*Navbar */
+ 
+  body{
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .navbar{
+     text-transform:uppercase;   
+  }
+  
+
+  .navbar-brand{
+      width:145px;
+      height:55px;
+      margin-left:7rem;
+    
+  }
+
+  .navbar-nav{
+      margin-right:7rem;
+  }
+  .navbar-nav .nav-item{
+      text-align:center;    
+  }
+
+.navbar-nav .nav-link{
+    text-decoration:none;
+    color:white;
+    font-weight:500;
+    font-size:14.5px;
+    letter-spacing:.5px;
+    margin:3px;
+}

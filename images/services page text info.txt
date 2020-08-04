@@ -1,0 +1,12 @@
+Navbar font = Calibri (size 23pt)
+-----------------------------------------
+Services Heading:
+Font=candara (size 60pt)
+-------------------------------------------
+Main Heading : font = Myriad Pro (size 41pt)
+sub paragraph : font = Century Gothic (size 21pt)
+paragraph : Font = Calibri (size 19pt)
+--------------------------------------------------
+icons
+headings font = Source Sans Variable (size 19pt)
+paragraphs font = Segoe UI Emoji (size 13pt)
